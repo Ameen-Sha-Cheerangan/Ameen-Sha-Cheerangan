@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ameen Sha Cheerangan</h1>
 
-<br>
+🎓 I’m currently studying **Computer Science** at [NIT Calicut](https://nitc.ac.in/)  
+📫 How to reach me: **ameenshac981@gmail.com**  
+💼 LinkedIn: [Ameen Sha C](https://www.linkedin.com/in/ameen-sha-c/)
 
--   🎓 I’m currently studying <b>Computer Science</b> at <a href="https://nitc.ac.in/">NIT Calicut</a>
-
-<!-- - 👨‍💻 All of my projects are available at [here](https://shijazks-portfolio.vercel.app/) -->
-
--   📫 How to reach me **ameenshac981@gmail.com**
+---
 
 <br>
 <h3 style="margin-bottom:10px" align="left">Github Status:</h3>
