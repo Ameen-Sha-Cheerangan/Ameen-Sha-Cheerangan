@@ -3,9 +3,9 @@
 🎓 I have an M.Tech in **Computer Science** from [NIT Calicut](https://nitc.ac.in/)  
 📫 How to reach me: **ameenshac981@gmail.com**  
 💼 LinkedIn: [Ameen Sha C](https://www.linkedin.com/in/ameen-sha-c/)
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ameen-Sha-Cheerangan.Ameen-Sha-Cheerangan" alt="Visitor Count" />
-</div>
+</div> -->
 ---
 
 <br>
