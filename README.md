@@ -12,7 +12,7 @@
 <!-- <h3 style="margin-bottom:10px" align="left">Github Status:</h3> -->
 <p align="center">
   <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ameen-Sha-Cheerangan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ameen-Sha-Cheerangan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Ameen-Sha-Cheerangan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
