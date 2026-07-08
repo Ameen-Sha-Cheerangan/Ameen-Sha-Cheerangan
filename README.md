@@ -9,7 +9,7 @@
 ---
 
 <br>
-<h3 style="margin-bottom:10px" align="left">Github Status:</h3>
+<!-- <h3 style="margin-bottom:10px" align="left">Github Status:</h3> -->
 <p align="center">
   <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ameen-Sha-Cheerangan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
