@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ameen Sha Cheerangan</h1>
+<h1 align="center">Hi 👋, I'm Ameen</h1>
 
 🎓 I have an M.Tech in **Computer Science** from [NIT Calicut](https://nitc.ac.in/)  
 📫 How to reach me: **ameenshac981@gmail.com**  
