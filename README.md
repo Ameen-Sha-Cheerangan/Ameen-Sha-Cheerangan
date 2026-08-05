@@ -15,28 +15,6 @@
   <!-- <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Ameen-Sha-Cheerangan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
 </p>
 
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Rick Staa's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="Rick Staa's Github stats" />
-</a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Rick Staa's Github stats" />
-</a>
-</div>
-
-<br/>
----
 
 <div align="center">
   <p><i>☕ If you liked my work and consider supporting:</i></p>
