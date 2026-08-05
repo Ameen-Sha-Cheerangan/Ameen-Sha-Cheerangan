@@ -15,6 +15,7 @@
   <!-- <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Ameen-Sha-Cheerangan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
 </p>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ameen-Sha-Cheerangan)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 <div align="center">
