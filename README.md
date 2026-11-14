@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ameen</h1>
 
-🎓 I have an M.Tech in **Computer Science** from [NIT Calicut](https://nitc.ac.in/)  
 📫 How to reach me: **ameenshac981@gmail.com**  
 💼 LinkedIn: [Ameen Sha C](https://www.linkedin.com/in/ameen-sha-c/)
 <!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ameen-Sha-Cheerangan.Ameen-Sha-Cheerangan" alt="Visitor Count" />
 </div> -->
 ---
-
-<br>
-<!-- <h3 style="margin-bottom:10px" align="left">Github Status:</h3> -->
-<p align="center">
-  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ameen-Sha-Cheerangan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-  <!-- <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Ameen-Sha-Cheerangan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
-</p>
 
 
 <div align="center">
